@@ -1,7 +1,7 @@
 # Forex-Stock-Prediction
 Hướng dẫn cài đặt môi trường cho conda
 Bước 1: Chọn branch main
-![Uploading Screenshot 2022-08-09 170755.png…]()
+![Screenshot 2022-08-09 170755](https://user-images.githubusercontent.com/90920767/183623151-d7f1b3a1-e8c1-4b7d-b682-591a5bfe1362.png)
 Bước 2: Sử dụng Annaconda, chọn Jupyter
 ![Screenshot 2022-08-09 165614](https://user-images.githubusercontent.com/90920767/183620712-01b36fd5-6af2-4545-afcf-940629df95b8.png)
 Bước 3: Chọn thư mục
